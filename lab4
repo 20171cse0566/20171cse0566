@@ -1,0 +1,65 @@
+<html>
+<body bgcolor="black">
+<br><br><br><br><br><br><br>
+<table height="45%" border="1" bordercolor="pink" bgcolor="white" cellpadding="5" cell spacing="0" align="center" width="80%">
+<tr>
+<th align="center" colspan="6">Time Table</th>
+</tr>
+<tr>
+<td bgcolor="yellow">days</td>
+<td bgcolor="yellow">period1</td>
+<td bgcolor="yellow">period2</td>
+<td rowspan="6" bgcolor="yellow" align="center">b</br>r</br>e</br>a</br>k</br></td>
+<td bgcolor="yellow">period3</td>
+<td bgcolor="yellow">period4</td>
+<td rowspan="6" bgcolor="yellow" align="center">l</br>u</br>n</br>c</br>h</br></td>
+<td bgcolor="yellow">period5</td>
+<td bgcolor="yellow">period6</td>
+</tr>
+<tr>
+<td bgcolor="grey" align="center">Monday</td>
+<td align="center">cs1</td>
+<td align="center">cs2</td>
+<td align="center">cs3</td>
+<td align="center">cs4</td>
+<td align="center">cs5</td>
+<td align="center">cs6</td>
+</tr>
+<tr>
+<td bgcolor="grey" align="center">Tuesday</td>
+<td align="center">cs1</td>
+<td align="center">cs2</td>
+<td align="center">cs3</td>
+<td align="center">cs4</td>
+<td align="center">cs5</td>
+<td align="center">cs6</td>
+</tr>
+<tr>
+<td bgcolor="grey" align="center">Wednesday</td>
+<td align="center">cs1</td>
+<td align="center">cs2</td>
+<td align="center">cs3</td>
+<td align="center">cs4</td>
+<td align="center">cs5</td>
+<td align="center">cs6</td>
+</tr>
+<tr>
+<td bgcolor="grey" align="center">thursday</td>
+<td align="center">cs1</td>
+<td align="center">cs2</td>
+<td align="center">cs3</td>
+<td align="center">cs4</td>
+<td align="center">cs5</td>
+<td align="center">cs6</td>
+</tr>
+<tr>
+<td bgcolor="grey" align="center">friday</td>
+<td align="center">cs1</td>
+<td align="center">cs2</td>
+<td align="center">cs3</td>
+<td align="center">cs4</td>
+<td align="center">cs5</td>
+<td align="center">cs6</td>
+</tr>
+</table>
+</html>
