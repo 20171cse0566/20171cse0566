@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Html marquee tag</title>
+</head>
+<body>
+<marquee>this is the basic example of marquee</marquee>
+<marquee direction="right">this text will scroll from left to right</marquee>
+<p><img src="in.jpeg" alt="micky mouse" style="float:right;width:142px;height:90px;">the image will float to the rigth of the text.</p>
+<img src="index.jpeg"  usemap="#indexmap">
+<map name="indexmap">
+<area shape="rect" coords="137,137,173,173" href="lab2.html">
+<area shape="circle" coords="137,137,173,173" href="lab2.html">
+</body>
+</html>
