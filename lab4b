@@ -1,0 +1,56 @@
+<html>
+<body bgcolor="pink">
+<caption align="center" colspan="2">cv</caption>
+<table border="1" cellspacing="0">
+<tr>
+<th>rakshitha.h</th>
+</tr>
+</table>
+<hr></hr>
+<h4>career objective</h4>
+<p> to secure a challenging position in popular organization to improve skills</p>
+<hr></hr>
+<h4>educational qualification</h4>
+<ul>
+<li>10th</li>
+<li>2nd puc</li>
+<li>b.tech</li>
+</ul>
+<hr/>
+<h4>skills</h4>
+<ul>
+<li>coding</li>
+<li>learning new codes</li>
+</ul>
+<hr/>
+<h4>languages</h4>
+<ul>
+<li>kannada</li>
+<li>english</li>
+</ul>
+<hr/>
+<table border="1">
+<tr>
+<th>programming language</th>
+<th>web designing</th>
+</tr>
+<tr>
+<td>python</td>
+<td>html</td>
+</tr>
+<tr>
+<td>c</td>
+<td>php</td>
+</tr>
+<tr>
+<td>c++</td>
+</tr>
+<hr/>
+<h4>refernces</h4>
+<p>worked with ms.preethi in internship</p>
+<a href="www.google.com">go to page</a>
+<p>setting image alignment</p>
+<img src="/home/cse9/Desktop/in.jpeg" alt="test image" border="3" align="right" width="400"/>
+<a href="mailto:rakshithah221@gmail.com">send email</a>
+</body>
+</html>
