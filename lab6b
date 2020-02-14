@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<body>
+{
+baclground-color:"lightblue"
+}
+<h1 style="color:#36c";">this is inline css</h1>
+</body>
+</html>
