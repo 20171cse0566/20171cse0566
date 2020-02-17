@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+.st1{
+font-size:1pc;
+}
+.st2{
+word-spacing:15mm;
+}
+p.home{
+background-color:powderblue;
+}
+#p1{
+text-align:center;
+font-size:25px;
+background-color:#ff0000;
+}
+#p2{
+background-color:#00ff00;
+}
+</style>
+</head>
+<body>
+<p style="background-color:yellow;">
+<p id="p1">Libra Horoscope - Read your free Libra daily horoscope</p>
+<p id="p2">The Nature Podcast brings you the best stories from the world</p>
+</body>
+</html>
