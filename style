@@ -1,0 +1,17 @@
+<html>
+<body>
+<h1>html styles</h1>
+<p style="color:red;direction:rtl;letter-spacing:5px;word-spacing:5px;text-indent:10cm;line-height:1.8;unicode-bidi:overridden;">In the example above, the text size in em is the same as the previous example in pixels. However, with the em size, it is possible to adjust the text size in all browsers.
+Unfortunately, there is still a problem with older versions of IE. The text becomes larger than it should when made larger, and smaller than it should when made smaller.</p>
+<p style="text-shadow:3px 2px red;text-align:center;font-size:200%;font-weight:bold;">All CSS Text Properties</p>
+<p style="text-decoration:underline;">this will be underlined</p>
+<p style="text-decoration:line-through;">this will be striked</p>
+<p style="text-decoration:overline;">this will be overline</p>
+<p style="text-decoration:blink;">this will have blinking effect</p>
+<p style="text-transform:capitalize;">this will be capitalized</p>
+<p style="text-transform:uppercase;">this will be uppercase</p>
+<p style="text-transform:lowercase;">this will be lowercase</p>
+<p style="font-variant-caps:all-small-caps;">this will be capitalize</p>
+<img style="border:3px dashed red;border-top-style:dotted;border-left-style:solid;background-color:lightgrey;opacity:1;" src="/home/cse9/Desktop/css.jpeg"/>
+</body>
+</html>

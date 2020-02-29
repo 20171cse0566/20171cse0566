@@ -1,0 +1,16 @@
+<html>
+<body>
+<p style="font-style:italic;font-size:2.5em;font-weight:500;font-variant:normal;">
+this text will be rendered in italic style</p>
+<p style="font-style:oblique;font-size:100%;font-weight:bold;font-variant:small-caps;font-stretch:initial;">rakshitha</p>
+<p style="font-weight:bolder;font-stretch:expanded;font-size:5vw;">Start with the font you want, and always end with a generic family, to let the browser pick a similar font in the generic family, if no other fonts are available.
+</body>
+
+set the font family
+<body>
+<p style="font-family:georgia,garamond,serif;">
+this text is rendered in either georgia,garmond,or the default serif font
+</p>
+<p style="font-family:arial,Helvetica,sans-serif;">this is a paragraph, shown in the Arial font</p>
+</body>
+</html>
