@@ -1,0 +1,19 @@
+<html>
+<head>
+<style>
+li{
+display:inline;
+}
+</style>
+</head>
+<body>
+<h1>css display property</h1>
+<li>
+<ul>html</ul>
+<ul>css</ul>
+<ul>javascript</ul>
+</li>
+</body>
+</html>
+
+
