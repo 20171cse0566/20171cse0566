@@ -1,0 +1,27 @@
+<html>
+<head>
+<style>
+div{
+background-color:lightgrey;
+width:350px;
+border:15px solid green;
+padding:25px;
+margin:25px;
+text-align:center;
+}
+
+div:hover{
+background-color:blue;
+}
+
+</style>
+</head
+<body>
+<h1>navigation link</h1>
+<div href="css.jpeg">
+Home
+contact
+about
+</div>
+</body>
+</html>

@@ -1,0 +1,28 @@
+<html>
+<head>
+<style>
+ul{
+background-color:lightgrey;
+display:inline;
+color:red;
+padding:15px;
+border:15px solid black;
+margin:0px;
+}
+li a{
+display:inline;
+padding:8px 16px;
+}
+li a:hover{
+background-color:#555;
+}
+
+</style>
+</head>
+<body>
+<ul>
+<li><a href="css.jpeg">Home</a></li>
+<li><a>Contact</a></li>
+<li><a>about</a></li>
+</body>
+</html>
