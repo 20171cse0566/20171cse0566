@@ -1,0 +1,23 @@
+<html>
+<head>
+<style>
+p{
+display:none;
+background-color:yellow;
+padding:20px;
+}
+div:hover p{
+display:block;
+color:red;
+text-align:center;
+font-size:15px;
+
+}
+</style>
+</head>
+<body>
+<div>tooltip hover
+<p>rakshitha.h</p>
+</div>
+</body>
+</html>

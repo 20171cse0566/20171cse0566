@@ -1,0 +1,33 @@
+<html>
+<head>
+<style>
+div.background{
+background:url(css.jpeg) ;
+border:2px solid black;
+}
+div.transbox{
+border:1px solid black;
+opacity:0.6;
+margin:30px;
+background-color:#ffffff;
+}
+div.transbox p{
+margin:5%;
+font-weight:bold;
+color:#000000;
+}
+</style>
+</head>
+<body>
+<div class="background">
+<div class="transbox">
+<p>this is some text that is palced in transparent box</p>
+</div>
+</div>
+</body>
+</html>
+
+
+
+
+

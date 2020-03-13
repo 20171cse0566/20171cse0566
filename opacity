@@ -1,0 +1,20 @@
+<html>
+<head>
+<style>
+div.first{
+background:rgba(76,175,80,0.1);
+}
+div.second{
+background:rgba(76,175,80,0.3);
+}
+div.third{
+background:rgba(76,175,80,0.6);
+}
+</style>
+</head>
+<body>
+<div class="first"><p>rekha</p></div>
+<div class="second"><p>sagarika</p></div>
+<div class="third"><p>radha</p></div>
+</body>
+</html>

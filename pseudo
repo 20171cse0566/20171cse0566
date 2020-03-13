@@ -1,0 +1,16 @@
+<html>
+<head>
+<style>
+a.highlight:hover{
+color:#ff0000;
+}
+a.low:link{
+color:red;
+}
+</style>
+</head>
+<body>
+<p><a class="highlight" href="css.jpeg">pseudo class</a></p>
+<p><a href="css.jpeg">selector</a></p>
+</body>
+</html>

@@ -1,0 +1,41 @@
+<html>
+<head>
+<style>
+p::first-line{
+color:red;
+font-variant:small-caps;
+}
+h1::before{
+content:url(css.jpeg);
+opacity:0.5;
+text-align:center;
+padding:20px;
+}
+P.name::first-letter{
+color:black;
+}
+img:hover{
+opacity:1.0;
+ba
+}
+div.first{
+background:rgba(76,175,70,0.1);
+}
+div.second{
+background:rgba(76,175,70,0.3);
+}
+div.third{
+background:rgba(76,175,70,0.6);
+}
+</style>
+</head>
+<body>
+<h1>rakshitha</h1>
+<p>Internet shutdowns, hackers, harassment — the health of the internet is on the line. Sign up and Mozilla will keep you updated on how you can help.</p>
+<p class="name">harshitha</p>
+<img src="img_forest.jpg" height="150" width="100">
+<div="first"><p>rekha</p></div>
+<div="second"><p>sagarika</p></div>
+<div="third"><p>radha</p></div>
+</body>
+</html>
