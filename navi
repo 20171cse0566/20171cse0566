@@ -1,0 +1,31 @@
+<html>
+<head>
+<style>
+ul{
+list-style-type:none;
+margin:0;
+padding:0;
+width:200px;
+background-color:#f1f1f1;
+}
+li a{
+dispaly:block;
+color:#000;
+padding:8px 60px;
+text-decoration:none;
+}
+li a:hover{
+background-color:#555;
+color:white;
+}
+</style>
+</head>
+<body>
+<ul>
+<li><a href="img_forest.jpg">HOME</a></li>
+<li><a href="img_mountains.jpg">NEWS</a></li>
+<li><a href="css.jpeg">Contact</a></li>
+<li><a href="img_forest.jpg">About</a></li>
+</ul>
+</body>
+</html>
